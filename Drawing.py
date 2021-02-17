@@ -8,12 +8,7 @@ Created on Mon Feb  8 18:46:54 2021
 
 # Task 2:
 # =======
-
 # Draw a box (side length 20cm) around the head in 'face.jpg'
-# Intrinsic camera parameters are cx=250, cy=375, fx=fy=716.
-# Head position is (in mm relative to camera) (212, -168, 712) with rotation (Rodrigues) (.35, .59, -.30).
-# Refer to 'https://docs.opencv.org/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html'
-# for information. The result should look like 'face_example.jpg', but you should choose thinner lines.
 
 #------IMPORTS------#
 
